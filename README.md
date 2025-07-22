@@ -11,5 +11,7 @@ I created the crates **[subtile](https://crates.io/crates/subtile)** and **[subt
 ### Ecosystem participation :
 I also participate in various projects that I use. For example, I have contributed to such projects as the following: [matroska-demuxer](https://github.com/hasenbanck/matroska-demuxer), [🐦 puffin](https://github.com/EmbarkStudios/puffin), [zed](https://github.com/zed-industries/zed/), [cosmic-files](https://github.com/pop-os/cosmic-files), [release-plz](https://github.com/release-plz/release-plz), [typos](https://github.com/crate-ci/typos/) or [typos-lsp](https://github.com/tekumara/typos-lsp)
 
-## Languages
+## Languages / Technologies
 [![Rust Badge](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=flat)](#) [![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)](#) [![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)](#) [![TOML Badge](https://img.shields.io/badge/TOML-9C4121?logo=toml&logoColor=fff&style=flat)](#) [![YAML Badge](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff&style=flat)](#)
+
+[![GitHub Actions Badge](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=fff&style=for-the-badge)](#)
